@@ -1,6 +1,6 @@
 # OutageHub
 
-NetPulse is an AI-powered internet outage tracker that detects regional network issues from public sources like social media, Reddit, news, and outage reports.
+OutageHub is an AI-powered internet outage tracker that detects regional network issues from public sources like social media, Reddit, news, and outage reports.
 
 ## Features
 
@@ -14,7 +14,7 @@ NetPulse is an AI-powered internet outage tracker that detects regional network 
 
 Jio network down in Hyderabad.
 
-NetPulse detects:
+OutageHub detects:
 - Provider: Jio
 - Region: Hyderabad
 - Issue: Network outage
